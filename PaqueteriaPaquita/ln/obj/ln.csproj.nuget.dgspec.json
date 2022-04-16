@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jose Jauberth\\Documents\\GitHub\\PaqueteriaPaquita\\PaqueteriaPaquita\\AD\\AD.csproj": {}
+    "C:\\Users\\Jose Jauberth\\Documents\\GitHub\\PaqueteriaPaquita\\PaqueteriaPaquita\\ln\\ln.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jose Jauberth\\Documents\\GitHub\\PaqueteriaPaquita\\PaqueteriaPaquita\\AD\\AD.csproj": {
+    "C:\\Users\\Jose Jauberth\\Documents\\GitHub\\PaqueteriaPaquita\\PaqueteriaPaquita\\ln\\ln.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jose Jauberth\\Documents\\GitHub\\PaqueteriaPaquita\\PaqueteriaPaquita\\AD\\AD.csproj",
-        "projectName": "AD",
-        "projectPath": "C:\\Users\\Jose Jauberth\\Documents\\GitHub\\PaqueteriaPaquita\\PaqueteriaPaquita\\AD\\AD.csproj",
+        "projectUniqueName": "C:\\Users\\Jose Jauberth\\Documents\\GitHub\\PaqueteriaPaquita\\PaqueteriaPaquita\\ln\\ln.csproj",
+        "projectName": "ln",
+        "projectPath": "C:\\Users\\Jose Jauberth\\Documents\\GitHub\\PaqueteriaPaquita\\PaqueteriaPaquita\\ln\\ln.csproj",
         "packagesPath": "C:\\Users\\Jose Jauberth\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jose Jauberth\\Documents\\GitHub\\PaqueteriaPaquita\\PaqueteriaPaquita\\AD\\obj\\",
+        "outputPath": "C:\\Users\\Jose Jauberth\\Documents\\GitHub\\PaqueteriaPaquita\\PaqueteriaPaquita\\ln\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jose Jauberth\\AppData\\Roaming\\NuGet\\NuGet.Config",
