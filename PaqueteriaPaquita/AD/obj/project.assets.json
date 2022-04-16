@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Jose Jauberth\\.nuget\\packages\\": {}
+    "C:\\Users\\Personal\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jose Jauberth\\Documents\\GitHub\\PaqueteriaPaquita\\PaqueteriaPaquita\\AD\\AD.csproj",
+      "projectUniqueName": "C:\\Users\\Personal\\OneDrive\\Documentos\\UAM\\IC 2022\\Programacion\\PaqueteriaPaquita\\PaqueteriaPaquita\\AD\\AD.csproj",
       "projectName": "AD",
-      "projectPath": "C:\\Users\\Jose Jauberth\\Documents\\GitHub\\PaqueteriaPaquita\\PaqueteriaPaquita\\AD\\AD.csproj",
-      "packagesPath": "C:\\Users\\Jose Jauberth\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jose Jauberth\\Documents\\GitHub\\PaqueteriaPaquita\\PaqueteriaPaquita\\AD\\obj\\",
+      "projectPath": "C:\\Users\\Personal\\OneDrive\\Documentos\\UAM\\IC 2022\\Programacion\\PaqueteriaPaquita\\PaqueteriaPaquita\\AD\\AD.csproj",
+      "packagesPath": "C:\\Users\\Personal\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Personal\\OneDrive\\Documentos\\UAM\\IC 2022\\Programacion\\PaqueteriaPaquita\\PaqueteriaPaquita\\AD\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Jose Jauberth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Personal\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
